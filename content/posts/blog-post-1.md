@@ -1,24 +1,15 @@
 ---
-title: "Blog Post 1"
+title: "Supply Chain"
 date: 2023-10-26T11:10:36+08:00
 draft: false
 language: en
 featured_image: ../assets/images/usecase/exporter_license.png
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.
+summary: Ooru can be customized to build a portal for Ministry of Commerce to onboard entities who want to export goods, perform regular inspections or audits and issue or revoke digital certificates using verifiable credentials.
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero. Vestibulum vel convallis felis. Ut finibus lorem vestibulum lobortis rhoncus.
-author: TailBliss
+author: Priyank
 authorimage: ../assets/images/global/author.webp
 categories: Blog
 tags: Blog
----
-__Advertisement :smile:__
-
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
 
 ---
 

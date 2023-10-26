@@ -1,24 +1,15 @@
 ---
-title: "Blog Post 3"
+title: "Universities"
 date: 2023-10-25T11:10:36+08:00
 draft: false
 language: en
 featured_image: ../assets/images/usecase/university.png
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.
+summary: Ooru can be customized to be used at any educational institute to issue a digital credential to the students, track their progress through their tenure and issuing graduation, character or transfer certificates. 
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero. Vestibulum vel convallis felis. Ut finibus lorem vestibulum lobortis rhoncus.
-author: TailBliss
+author: Priyank
 authorimage: ../assets/images/global/author.webp
 categories: blog
 tags: blog
----
-__Advertisement :smile:__
-
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
 
 ---
 

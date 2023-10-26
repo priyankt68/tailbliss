@@ -1,12 +1,12 @@
 ---
-title: "Blog Post 2"
+title: "Corporate Offices"
 date: 2023-10-24T11:10:36+08:00
 draft: false
 language: en
 featured_image: ../assets/images/usecase/corporate.png
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.
+summary: Ooru can be customized to be used at any office to issue employee digital credentials that can be used for entering into the office premise, secure login into ODC or devices, rewards and recognition of an employee or visitor entry.
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero. Vestibulum vel convallis felis. Ut finibus lorem vestibulum lobortis rhoncus.
-author: TailBliss
+author: Priyank
 authorimage: ../assets/images/global/author.webp
 categories: blog
 tags: blog
