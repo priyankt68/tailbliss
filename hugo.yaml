@@ -48,7 +48,7 @@ markup:
 params:
   author: "Ooru Digital Pvt. Ltd"
   authorimage: ../assets/images/global/author.webp
-  og_image: /images/tailbliss-cover.png
+  og_image: /images/featured-img-placeholder
   moto: "A Platform for Verifiable Credentials"
   description: "Obtain, Issue and Verify Verifiable Credentials with Ooru's technology to establish Digital Trust"
   disable_theme_toggle: false
@@ -63,7 +63,7 @@ params:
       - text: "We dedicate ourselves to continuous innovation, security, and user satisfaction."
   p2:
     heading: "Our vision"
-    image: "images/pages/hacktoberfest.jpg"
+    image: "images/pages/vision.png"
     content:
       - text: "To empower organizations across the public and private sectors by providing a versatile and secure platform that streamlines entity registration, verification, and the issuance of verifiable credentials."
       - text: "Our vision is a future where trust, authenticity, and efficiency are at the core of every interaction, transforming industries and institutions worldwide."
@@ -90,7 +90,7 @@ params:
   p5:
     heading: "Stay Up to Date"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque."
+      - text: "Stay ahead in the credentialing landscape. Sign up for our newsletter to receive the latest updates and industry insights directly to your inbox!"
     action: "#"
     label: "Email address"
     placeholder: "Enter your email"
@@ -117,10 +117,6 @@ menu:
       name: About
       url: /about/
       weight: 10
-    - identifier: use-cases
-      pre: dropdown
-      name: Use Cases
-      weight: 20
     - identifier: contact
       name: Contact
       url: /contact/
@@ -154,18 +150,10 @@ menu:
       name: About
       url: /about/
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: /categories/blog/
-      weight: 20
-    - identifier: news
-      name: News
-      url: /categories/news/
-      weight: 30
-    - identifier: prose
-      name: Prose
-      url: /prose/
-      weight: 40
+    # - identifier: blog
+    #   name: Blog
+    #   url: /categories/blog/
+    #   weight: 20
     - identifier: contact
       name: Contact
       url: /contact/
