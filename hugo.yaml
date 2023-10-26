@@ -91,7 +91,7 @@ params:
     heading: "Stay Up to Date"
     content:
       - text: "Stay ahead in the credentialing landscape. Sign up for our newsletter to receive the latest updates and industry insights directly to your inbox!"
-    action: "#"
+    action: "https://formspree.io/f/mleyzoon"
     label: "Email address"
     placeholder: "Enter your email"
     button: "Notify me"
